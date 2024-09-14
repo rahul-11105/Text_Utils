@@ -34,7 +34,7 @@ export default function Navbar(props) {
     </>
   )
 }
-
+ 
 Navbar.propTypes = {
   title:propTypes.string,
 }
